@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/team/test.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Lorem Lorem",
+    "usertitle": "Lorem"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/team/test.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Lorem Lorem",
+    "usertitle": "CEO Founder"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/team/test.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Lorem Lorem",
+    "usertitle": "Lorem"
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/team/test.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Lorem Lorem",
+    "usertitle": "CEO Founder"
+  },
+  {
+    "id": 5,
+    "image": "/assets/img/team/test.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Lorem Lorem",
+    "usertitle": "3D Visualization"
+  }
+]

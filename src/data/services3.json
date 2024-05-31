@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "image": "/assets/img/01.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Commercial Visualization",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  },
+  {
+    "id": "02",
+    "image": "/assets/img/02.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Residential Visualization",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  },
+  {
+    "id": "03",
+    "image": "/assets/img/03.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Event Exhibit Visualization",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  },
+
+  {
+    "id": "04",
+    "image": "/assets/img/04.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Virtual Reality Visualization",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  },
+  {
+    "id": "05",
+    "image": "/assets/img/05.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Interior Design Visualization",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  }
+]
