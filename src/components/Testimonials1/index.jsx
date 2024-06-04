@@ -37,6 +37,10 @@ class Testimonials1 extends React.Component {
           }}
           data-overlay-dark={this.props.withBg ? 9 : null}
         >
+          <div className="main-header text-center">
+            <h3>Testimonial.</h3>
+            <div className="tex-bg">Reviews</div>
+          </div>
           <div className="container">
             {!this.props.bigTitle && (
               <div className="section-head text-center">

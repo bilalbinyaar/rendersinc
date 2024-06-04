@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/team/1.jpg",
+    "image": "/assets/img/team/customer.jpg",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     "username": "Lorem",
     "usertitle": "Customer"
   },
   {
     "id": 2,
-    "image": "/assets/img/team/2.jpg",
+    "image": "/assets/img/team/test.jpg",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     "username": "Lorem",
     "usertitle": "Customer"
   },
   {
     "id": 3,
-    "image": "/assets/img/team/3.jpg",
+    "image": "/assets/img/team/customer.jpg",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     "username": "Lorem",
     "usertitle": "Customer"
   },
   {
     "id": 4,
-    "image": "/assets/img/team/4.jpg",
+    "image": "/assets/img/team/test.jpg",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     "username": "Lorem",
     "usertitle": "Customer"

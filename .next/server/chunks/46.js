@@ -21,7 +21,7 @@ var external_react_default = /*#__PURE__*/__webpack_require__.n(external_react_)
 var external_react_slick_ = __webpack_require__(8096);
 var external_react_slick_default = /*#__PURE__*/__webpack_require__.n(external_react_slick_);
 ;// CONCATENATED MODULE: ./src/data/testimonials1.json
-const testimonials1_namespaceObject = JSON.parse('[{"id":1,"image":"/assets/img/team/1.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"},{"id":2,"image":"/assets/img/team/2.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"},{"id":3,"image":"/assets/img/team/3.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"},{"id":4,"image":"/assets/img/team/4.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"}]');
+const testimonials1_namespaceObject = JSON.parse('[{"id":1,"image":"/assets/img/team/customer.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"},{"id":2,"image":"/assets/img/team/test.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"},{"id":3,"image":"/assets/img/team/customer.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"},{"id":4,"image":"/assets/img/team/test.jpg","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.","username":"Lorem","usertitle":"Customer"}]');
 ;// CONCATENATED MODULE: ./src/components/Testimonials1/index.jsx
 
 /* eslint-disable @next/next/no-img-element */ 
@@ -58,124 +58,138 @@ class Testimonials1 extends (external_react_default()).Component {
     };
     render() {
         return(/*#__PURE__*/ jsx_runtime_.jsx(jsx_runtime_.Fragment, {
-            children: /*#__PURE__*/ jsx_runtime_.jsx("section", {
+            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
                 className: `testimonials grid section-padding ${this.props.withBg ? 'bg-img parallaxie' : ''}`,
                 style: {
                     backgroundImage: this.props.withBg ? `url(/assets/img/001.jpg)` : 'none'
                 },
                 "data-overlay-dark": this.props.withBg ? 9 : null,
-                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                    className: "container",
-                    children: [
-                        !this.props.bigTitle && /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                            className: "section-head text-center",
-                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                className: "row justify-content-center",
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: "main-header text-center",
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                                children: "Testimonial."
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: "tex-bg",
+                                children: "Reviews"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: "container",
+                        children: [
+                            !this.props.bigTitle && /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: "section-head text-center",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                    className: "row justify-content-center",
+                                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        className: "col-lg-6 col-md-8 col-sm-10",
+                                        children: [
+                                            /*#__PURE__*/ jsx_runtime_.jsx("h6", {
+                                                className: "wow fadeInDown",
+                                                "data-wow-delay": ".3s",
+                                                children: "Testimonials"
+                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("h4", {
+                                                className: "playfont wow flipInX",
+                                                "data-wow-delay": ".5s",
+                                                children: "What People Says?"
+                                            })
+                                        ]
+                                    })
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: "row",
                                 children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    className: "col-lg-6 col-md-8 col-sm-10",
+                                    className: "col-lg-12",
                                     children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h6", {
-                                            className: "wow fadeInDown",
-                                            "data-wow-delay": ".3s",
-                                            children: "Testimonials"
+                                        /*#__PURE__*/ jsx_runtime_.jsx((external_react_slick_default()), {
+                                            className: "testim",
+                                            ref: (c)=>this.slider = c
+                                            ,
+                                            dots: false,
+                                            arrows: true,
+                                            autoplay: true,
+                                            rows: 1,
+                                            slidesToScroll: 1,
+                                            slidesToShow: 2,
+                                            responsive: [
+                                                {
+                                                    breakpoint: 1024,
+                                                    settings: {
+                                                        slidesToShow: 2
+                                                    }
+                                                },
+                                                {
+                                                    breakpoint: 767,
+                                                    settings: {
+                                                        slidesToShow: 1
+                                                    }
+                                                },
+                                                {
+                                                    breakpoint: 480,
+                                                    settings: {
+                                                        slidesToShow: 1
+                                                    }
+                                                }, 
+                                            ],
+                                            children: testimonials1_namespaceObject.map((item)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                                    className: "item wow fadeInUp",
+                                                    "data-wow-delay": ".3s",
+                                                    children: [
+                                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                            className: "quote-icon",
+                                                            children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                                                src: "/assets/img/clients/quote.svg",
+                                                                alt: ""
+                                                            })
+                                                        }),
+                                                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                                            className: "cont",
+                                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                                                className: "",
+                                                                children: [
+                                                                    "\"",
+                                                                    item.content,
+                                                                    "\""
+                                                                ]
+                                                            })
+                                                        }),
+                                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                                            className: "info",
+                                                            children: [
+                                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                                                    className: "author",
+                                                                    children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                                                        src: item.image,
+                                                                        alt: ""
+                                                                    })
+                                                                }),
+                                                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h6", {
+                                                                    children: [
+                                                                        item.username,
+                                                                        " ",
+                                                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                                            children: item.usertitle
+                                                                        })
+                                                                    ]
+                                                                })
+                                                            ]
+                                                        })
+                                                    ]
+                                                }, item.id)
+                                            )
                                         }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h4", {
-                                            className: "playfont wow flipInX",
-                                            "data-wow-delay": ".5s",
-                                            children: "What People Says?"
-                                        })
+                                        this.renderArrows()
                                     ]
                                 })
                             })
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                            className: "row",
-                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                className: "col-lg-12",
-                                children: [
-                                    /*#__PURE__*/ jsx_runtime_.jsx((external_react_slick_default()), {
-                                        className: "testim",
-                                        ref: (c)=>this.slider = c
-                                        ,
-                                        dots: false,
-                                        arrows: true,
-                                        autoplay: true,
-                                        rows: 1,
-                                        slidesToScroll: 1,
-                                        slidesToShow: 2,
-                                        responsive: [
-                                            {
-                                                breakpoint: 1024,
-                                                settings: {
-                                                    slidesToShow: 2
-                                                }
-                                            },
-                                            {
-                                                breakpoint: 767,
-                                                settings: {
-                                                    slidesToShow: 1
-                                                }
-                                            },
-                                            {
-                                                breakpoint: 480,
-                                                settings: {
-                                                    slidesToShow: 1
-                                                }
-                                            }, 
-                                        ],
-                                        children: testimonials1_namespaceObject.map((item)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                className: "item wow fadeInUp",
-                                                "data-wow-delay": ".3s",
-                                                children: [
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                        className: "quote-icon",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                                            src: "/assets/img/clients/quote.svg",
-                                                            alt: ""
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "cont",
-                                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                                            className: "",
-                                                            children: [
-                                                                "\"",
-                                                                item.content,
-                                                                "\""
-                                                            ]
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "info",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                className: "author",
-                                                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                                                    src: item.image,
-                                                                    alt: ""
-                                                                })
-                                                            }),
-                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h6", {
-                                                                children: [
-                                                                    item.username,
-                                                                    " ",
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                                        children: item.usertitle
-                                                                    })
-                                                                ]
-                                                            })
-                                                        ]
-                                                    })
-                                                ]
-                                            }, item.id)
-                                        )
-                                    }),
-                                    this.renderArrows()
-                                ]
-                            })
-                        })
-                    ]
-                })
+                        ]
+                    })
+                ]
             })
         }));
     }

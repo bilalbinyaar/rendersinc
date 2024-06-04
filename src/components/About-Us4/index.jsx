@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const AboutUs4 = () => {
   return (
@@ -11,7 +11,8 @@ const AboutUs4 = () => {
                 <div className="col-sm-6">
                   <div className="item mb-50">
                     <h3>
-                      <span className="nbr custom-font">352</span>
+                      <span className="nbr custom-font">1250</span>
+                      <i>+</i>
                     </h3>
                     <h6>Projects Completed</h6>
                   </div>
@@ -27,16 +28,16 @@ const AboutUs4 = () => {
                 <div className="col-sm-6">
                   <div className="item">
                     <h3>
-                      <span className="nbr custom-font">656</span>
-                      <i>M</i>
+                      <span className="nbr custom-font">25</span>
+                      <i>+</i>
                     </h3>
-                    <h6>Monthly Revenue</h6>
+                    <h6>Years of Experience</h6>
                   </div>
                 </div>
                 <div className="col-sm-6">
                   <div className="item">
                     <h3>
-                      <span className="nbr custom-font">17</span>
+                      <span className="nbr custom-font">45</span>
                     </h3>
                     <h6>Awards Won</h6>
                   </div>

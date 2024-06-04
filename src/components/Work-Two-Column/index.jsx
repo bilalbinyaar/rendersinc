@@ -33,7 +33,7 @@ export const WorkTwoColumn = () => {
             <div className="col-lg-6 items theaters">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/2.jpg" alt="" />
+                  <img src="/assets/img/works/11.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
@@ -45,10 +45,24 @@ export const WorkTwoColumn = () => {
                 </div>
               </div>
             </div>
+            <div className="col-lg-6 items interior">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/55.jpg" alt="" />
+                </div>
+                <div className="cont vis">
+                  <h5>
+                    <Link href="#">Modern Townhouse</Link>
+                  </h5>
+                  <span>Architecture</span>
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
             <div className="col-lg-6 items residential interior">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/1.jpg" alt="" />
+                  <img src="/assets/img/works/22.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
@@ -62,7 +76,7 @@ export const WorkTwoColumn = () => {
             <div className="col-lg-6 items interior">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/5.jpg" alt="" />
+                  <img src="/assets/img/works/55.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
@@ -76,7 +90,7 @@ export const WorkTwoColumn = () => {
             <div className="col-lg-6 items residential">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/3.jpg" alt="" />
+                  <img src="/assets/img/works/33.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
@@ -90,7 +104,7 @@ export const WorkTwoColumn = () => {
             <div className="col-lg-6 items theaters">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/4.jpg" alt="" />
+                  <img src="/assets/img/works/11.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>

@@ -1498,6 +1498,7 @@ body {
 }
 .btn-curve.btn-color:hover {
   background: transparent;
+  color: #c5a47e;
 }
 .btn-curve.btn-lg {
   width: 190px;

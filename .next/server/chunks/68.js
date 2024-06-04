@@ -19,19 +19,19 @@ const WorkHeader = ({ title , content , center  })=>{
     return(/*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("header", {
         className: "work-header bg-img valign",
         style: {
-            backgroundImage: "url(/assets/img/patern.png)"
+            backgroundImage: 'url(/assets/img/au.jpg)'
         },
         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
             className: "container",
             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                className: `row ${center ? "justify-content-center" : ""}`,
+                className: `row ${center ? 'justify-content-center' : ''}`,
                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                     className: "col-lg-9",
                     children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                        className: `cont ${center ? "text-center" : ""}`,
+                        className: `cont ${center ? 'text-center' : ''}`,
                         children: [
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h2", {
-                                children: typeof title == "object" ? /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
+                                children: typeof title == 'object' ? /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
                                     children: [
                                         title.first,
                                         " ",

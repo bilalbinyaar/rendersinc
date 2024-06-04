@@ -35,7 +35,7 @@ const AboutUs6 = () => {
               </div>
               <div className="item">
                 <h4>
-                  14<span>K</span> +
+                  1.4<span>K</span> +
                 </h4>
                 <h6>Success Projects</h6>
               </div>

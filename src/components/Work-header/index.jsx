@@ -1,17 +1,17 @@
-import React from "react";
+import React from 'react';
 
 const WorkHeader = ({ title, content, center }) => {
   return (
     <header
       className="work-header bg-img valign"
-      style={{ backgroundImage: "url(/assets/img/patern.png)" }}
+      style={{ backgroundImage: 'url(/assets/img/au.jpg)' }}
     >
       <div className="container">
-        <div className={`row ${center ? "justify-content-center" : ""}`}>
+        <div className={`row ${center ? 'justify-content-center' : ''}`}>
           <div className="col-lg-9">
-            <div className={`cont ${center ? "text-center" : ""}`}>
+            <div className={`cont ${center ? 'text-center' : ''}`}>
               <h2>
-                {typeof title == "object" ? (
+                {typeof title == 'object' ? (
                   <>
                     {title.first} <br /> {title.second}
                   </>
@@ -20,9 +20,7 @@ const WorkHeader = ({ title, content, center }) => {
                 )}
               </h2>
 
-              <p>
-                {content}
-              </p>
+              <p>{content}</p>
             </div>
           </div>
         </div>

@@ -85,7 +85,7 @@ const AboutUs6 = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h4", {
                                                 children: [
-                                                    "14",
+                                                    "1.4",
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                         children: "K"
                                                     }),
@@ -506,21 +506,29 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6689);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_Team2__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(779);
-/* harmony import */ var _components_Video__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2569);
-/* harmony import */ var _layouts_main__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(843);
-/* harmony import */ var _components_Blogs4__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2028);
-/* harmony import */ var _components_Intro4__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6111);
-/* harmony import */ var _components_About_Us6__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9818);
-/* harmony import */ var _components_Services3__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1054);
-/* harmony import */ var _components_Portfolio2__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(5254);
-/* harmony import */ var _components_Testimonials1__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(5046);
-/* harmony import */ var _components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(6429);
-/* harmony import */ var _components_Brands__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(2968);
-var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_11__, _components_Intro4__WEBPACK_IMPORTED_MODULE_6__]);
-([_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_11__, _components_Intro4__WEBPACK_IMPORTED_MODULE_6__] = __webpack_async_dependencies__.then ? await __webpack_async_dependencies__ : __webpack_async_dependencies__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9816);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6689);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _components_Team2__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(779);
+/* harmony import */ var _components_Video__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2569);
+/* harmony import */ var _layouts_main__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(843);
+/* harmony import */ var _components_Blogs4__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2028);
+/* harmony import */ var _components_Intro4__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6111);
+/* harmony import */ var _components_About_Us6__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9818);
+/* harmony import */ var _components_Services3__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(1054);
+/* harmony import */ var _components_Portfolio2__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(5254);
+/* harmony import */ var _components_Testimonials1__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(5046);
+/* harmony import */ var _components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(6429);
+/* harmony import */ var _components_Brands__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(2968);
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(968);
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_14__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(1664);
+var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_12__, _components_Intro4__WEBPACK_IMPORTED_MODULE_7__]);
+([_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_12__, _components_Intro4__WEBPACK_IMPORTED_MODULE_7__] = __webpack_async_dependencies__.then ? await __webpack_async_dependencies__ : __webpack_async_dependencies__);
+
+
+/* eslint-disable @next/next/no-css-tags */ /* eslint-disable @next/next/no-img-element */ 
 
 
 
@@ -535,26 +543,35 @@ var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_com
 
 
 const Home5 = ()=>{
-    react__WEBPACK_IMPORTED_MODULE_1___default().useEffect(()=>{
+    react__WEBPACK_IMPORTED_MODULE_2___default().useEffect(()=>{
         document.querySelector('body').classList.add('index3');
     }, []);
-    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_layouts_main__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {
+    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_layouts_main__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z, {
         children: [
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_11__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_head__WEBPACK_IMPORTED_MODULE_14___default()), {
+                /*#__PURE__*/ children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
+                    rel: "stylesheet",
+                    href: "/assets/css/style.css",
+                    className: "jsx-c7e1cceefc38c3ba"
+                })
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_About_Us6__WEBPACK_IMPORTED_MODULE_7__/* ["default"] */ .Z, {
+            react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default()), {
+                id: "c7e1cceefc38c3ba",
+                children: ".works-header.jsx-c7e1cceefc38c3ba {min-height:85vh;\nposition:relative}\n.works-header.jsx-c7e1cceefc38c3ba:after {content:'';\nposition:absolute;\ntop:50px;\nleft:50px;\nright:50px;\nbottom:50px;\nbackground:#000;\nopacity:0.4}\n.works-header.jsx-c7e1cceefc38c3ba:before {background:#000}"
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Services3__WEBPACK_IMPORTED_MODULE_8__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_12__/* ["default"] */ .Z, {
+            }),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_About_Us6__WEBPACK_IMPORTED_MODULE_8__/* ["default"] */ .Z, {
+            }),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Services3__WEBPACK_IMPORTED_MODULE_9__/* ["default"] */ .Z, {
                 bigTitle: true,
                 grid: true
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Portfolio2__WEBPACK_IMPORTED_MODULE_9__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Portfolio2__WEBPACK_IMPORTED_MODULE_10__/* ["default"] */ .Z, {
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Video__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Video__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Team2__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Testimonials1__WEBPACK_IMPORTED_MODULE_10__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Testimonials1__WEBPACK_IMPORTED_MODULE_11__/* ["default"] */ .Z, {
                 bigTitle: true
             })
         ]
