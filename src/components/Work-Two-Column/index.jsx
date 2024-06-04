@@ -45,7 +45,7 @@ export const WorkTwoColumn = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 items interior">
+            {/* <div className="col-lg-6 items interior">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/55.jpg" alt="" />
@@ -58,7 +58,7 @@ export const WorkTwoColumn = () => {
                   <span>Modern</span>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="col-lg-6 items residential interior">
               <div className="item">
                 <div className="img">
