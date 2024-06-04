@@ -310,7 +310,7 @@ const Navbar = ({ navbarRef , logoRef , logoClass  })=>{
                                             className: "dropdown-menu",
                                             children: [
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                                    href: "/#",
+                                                    href: "/commercial-visualization",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                         className: "dropdown-item",
                                                         children: "Commercial Visualization"

@@ -14,7 +14,7 @@ export const WorkTwoColumn = () => {
       <section className="works filter-img section-padding">
         <div className="container">
           <div className="row gallery">
-            <div className="col-lg-6 items mt-0 interior theaters residential">
+            <div className="col-lg-6 items mt-0 interior renders residential">
               <div className="section-head mb-0">
                 <h3>Portfolio</h3>
 
@@ -24,13 +24,13 @@ export const WorkTwoColumn = () => {
                       All
                     </span>
                     <span data-filter=".interior">Interior</span>
-                    <span data-filter=".theaters">Theaters</span>
+                    <span data-filter=".renders">Renders</span>
                     <span data-filter=".residential">Residential</span>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 items theaters">
+            <div className="col-lg-6 items renders">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/11.jpg" alt="" />
@@ -101,7 +101,7 @@ export const WorkTwoColumn = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 items theaters">
+            <div className="col-lg-6 items renders">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/11.jpg" alt="" />

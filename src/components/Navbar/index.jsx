@@ -110,7 +110,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   Services
                 </span>
                 <div className="dropdown-menu">
-                  <Link href="/#">
+                  <Link href="/commercial-visualization">
                     <a className="dropdown-item">Commercial Visualization</a>
                   </Link>
                   <Link href="/#">

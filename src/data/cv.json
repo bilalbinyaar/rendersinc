@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01",
+    "image": "/assets/img/01.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Enhanced Understanding",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat. Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  },
+  {
+    "id": "02",
+    "image": "/assets/img/02.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Cost Savings",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat. Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  },
+  {
+    "id": "03",
+    "image": "/assets/img/03.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Improved Communication",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat. Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  }
+]
