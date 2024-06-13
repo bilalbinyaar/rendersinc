@@ -32,7 +32,7 @@ const Services3 = ({ bigTitle, grid }) => {
 
         <div className="row justify-center">
           {services3Data.map((item, index) => (
-            <div className="col-lg-2 column-width" key={item.id}>
+            <div className="col-lg-4 column-width" key={item.id}>
               <div
                 className="item-bx bg-img wow fadeInUp"
                 data-wow-delay={index == 0 ? '.3s' : index == 1 ? '.5s' : '.7s'}

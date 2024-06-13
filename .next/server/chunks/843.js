@@ -28,17 +28,17 @@ const MainLayout = ({ children , logoClassText  })=>{
     react__WEBPACK_IMPORTED_MODULE_1___default().useEffect(()=>{
         var navbar = navbarRef.current, logo = logoRef.current;
         if (window.pageYOffset > 300) {
-            navbar.classList.add("nav-scroll");
+            navbar.classList.add('nav-scroll');
         } else {
-            navbar.classList.remove("nav-scroll");
+            navbar.classList.remove('nav-scroll');
         }
-        window.addEventListener("scroll", ()=>{
+        window.addEventListener('scroll', ()=>{
             if (window.pageYOffset > 300) {
-                navbar.classList.add("nav-scroll");
-                logo.setAttribute("src", "/assets/img/logo-light.png");
+                navbar.classList.add('nav-scroll');
+                logo.setAttribute('src', '/assets/img/logo-light.svg');
             } else {
-                navbar.classList.remove("nav-scroll");
-                logo.setAttribute("src", "/assets/img/logo-light.png");
+                navbar.classList.remove('nav-scroll');
+                logo.setAttribute('src', '/assets/img/logo-light.svg');
             }
         });
     }, [

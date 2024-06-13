@@ -394,7 +394,7 @@ const Demos = () => {
               <div className="col-lg-4">
                 <div className="item">
                   <div className="logo">
-                    <img src="/assets/img/logo-light.png" alt="" />
+                    <img src="/assets/img/logo-light.svg" alt="" />
                   </div>
                   <div className="social">
                     <Link href="#">

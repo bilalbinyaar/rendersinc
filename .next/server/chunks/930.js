@@ -66,7 +66,7 @@ const Services3 = ({ bigTitle , grid  })=>{
                 /*#__PURE__*/ jsx_runtime_.jsx("div", {
                     className: "row justify-center",
                     children: services3_namespaceObject.map((item, index)=>/*#__PURE__*/ jsx_runtime_.jsx("div", {
-                            className: "col-lg-2 column-width",
+                            className: "col-lg-4 column-width",
                             children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                 className: "item-bx bg-img wow fadeInUp",
                                 "data-wow-delay": index == 0 ? '.3s' : index == 1 ? '.5s' : '.7s',
