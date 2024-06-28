@@ -3,21 +3,21 @@
     "id": "01",
     "image": "/assets/img/01.jpg",
     "icon": "icon flaticon-home-1",
-    "title": "Enhanced Understanding",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat. Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "3D Renderings",
+    "content": "Lifelike 3D renderings to visualize and communicate your commercial space effectively."
   },
   {
     "id": "02",
     "image": "/assets/img/02.jpg",
     "icon": "icon flaticon-living-room",
-    "title": "Cost Savings",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat. Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "Interactive Walkthroughs",
+    "content": "Experience your projects interactively, navigating through spaces for better planning."
   },
   {
     "id": "03",
     "image": "/assets/img/03.jpg",
     "icon": "icon flaticon-interior-design",
-    "title": "Improved Communication",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat. Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "Customizable Design",
+    "content": "Tailor every detail, from furniture to color schemes, to perfect your commercial environment."
   }
 ]

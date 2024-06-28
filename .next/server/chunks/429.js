@@ -134,7 +134,7 @@ const IntroWithHorizontal = ()=>{
                                                         ]
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_5__["default"], {
-                                                        href: "#",
+                                                        href: "/portfolio",
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                             className: "btn-curve btn-bord btn-lit mt-30",
                                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {

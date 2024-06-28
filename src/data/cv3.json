@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01",
+    "image": "/assets/img/01.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Immersive 360-Degree Tours",
+    "content": "Explore properties with full 360-degree views, providing a complete and engaging virtual experience."
+  },
+  {
+    "id": "02",
+    "image": "/assets/img/02.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Interactive Elements",
+    "content": "Interact with various features within the virtual environment, such as opening doors and examining details closely."
+  },
+  {
+    "id": "03",
+    "image": "/assets/img/03.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Customizable Virtual Environments",
+    "content": "Tailor the virtual environment to reflect different design options, finishes, and layouts, offering a personalized experience."
+  }
+]

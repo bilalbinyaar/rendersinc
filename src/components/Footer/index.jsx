@@ -17,21 +17,28 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Offical Address</h6>
-                    <p>Po Box 42402 . Dubai, Emirates</p>
+                    <p>
+                      E1 Block, Ghalib Rd, Block E1 Block E 1 Gulberg III,{' '}
+                      <br />
+                      Lahore, Punjab 54660
+                    </p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <p>info@rendersinc.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+00000000000</p>
+                    <p>
+                      +971526591299 <br />
+                      +923214418001
+                    </p>
                   </div>
                 </li>
               </ul>
@@ -99,24 +106,24 @@ const Footer = ({ classText }) => {
                 <img src="/assets/img/logo-light.png" alt="" />
               </div>
               <div className="social">
-                <Link href="#">
+                <Link href="https://www.facebook.com/rendersinc">
                   <a>
                     <i className="fab fa-facebook-f"></i>
                   </a>
                 </Link>
-                <Link href="#">
+                <Link href="https://twitter.com/rendersinc">
                   <a>
                     <i className="fab fa-twitter"></i>
                   </a>
                 </Link>
-                <Link href="#">
+                <Link href="https://www.instagram.com/_rendersinc/">
                   <a>
                     <i className="fab fa-instagram"></i>
                   </a>
                 </Link>
-                <Link href="#">
+                <Link href="https://www.linkedin.com/company/94208239">
                   <a>
-                    <i className="fab fa-youtube"></i>
+                    <i className="fab fa-linkedin"></i>
                   </a>
                 </Link>
               </div>

@@ -12,12 +12,14 @@ const AboutUs6 = () => {
               <h6 className="fw-100 text-u ls10 main-color mb-10">About Us</h6>
               <h3 className="fw-600 text-u ls1 mb-30">Our Comapny</h3>
               <p>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam Sed ut
-                perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam.
+                At Renders Inc, we don&apos;t just create visuals; we curate
+                cinematic experiences that captivate, inspire, and redefine the
+                boundaries of imagination. Join us on a journey where every
+                frame is a masterpiece, and every idea is a blockbuster in the
+                making. Welcome to the epicenter of visual enchantment – welcome
+                to Renders Inc.
               </p>
-              <Link href="#">
+              <Link href="/about">
                 <a className="btn-curve btn-bord btn-lit mt-30">
                   <span>Read More</span>
                 </a>

@@ -74,8 +74,14 @@ const Footer = ({ classText  })=>{
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
                                                             children: "Offical Address"
                                                         }),
-                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                            children: "Po Box 42402 . Dubai, Emirates"
+                                                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
+                                                            children: [
+                                                                "E1 Block, Ghalib Rd, Block E1 Block E 1 Gulberg III,",
+                                                                ' ',
+                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
+                                                                }),
+                                                                "Lahore, Punjab 54660"
+                                                            ]
                                                         })
                                                     ]
                                                 })
@@ -93,7 +99,7 @@ const Footer = ({ classText  })=>{
                                                             children: "Email Us"
                                                         }),
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                            children: "support@gmail.com"
+                                                            children: "info@rendersinc.com"
                                                         })
                                                     ]
                                                 })
@@ -110,8 +116,13 @@ const Footer = ({ classText  })=>{
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
                                                             children: "Call Us"
                                                         }),
-                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                            children: "+00000000000"
+                                                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
+                                                            children: [
+                                                                "+971526591299 ",
+                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
+                                                                }),
+                                                                "+923214418001"
+                                                            ]
                                                         })
                                                     ]
                                                 })
@@ -138,7 +149,7 @@ const Footer = ({ classText  })=>{
                                     className: "social",
                                     children: [
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                            href: "#",
+                                            href: "https://www.facebook.com/rendersinc",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                     className: "fab fa-facebook-f"
@@ -146,7 +157,7 @@ const Footer = ({ classText  })=>{
                                             })
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                            href: "#",
+                                            href: "https://twitter.com/rendersinc",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                     className: "fab fa-twitter"
@@ -154,7 +165,7 @@ const Footer = ({ classText  })=>{
                                             })
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                            href: "#",
+                                            href: "https://www.instagram.com/_rendersinc/",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                     className: "fab fa-instagram"
@@ -162,10 +173,10 @@ const Footer = ({ classText  })=>{
                                             })
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                            href: "#",
+                                            href: "https://www.linkedin.com/company/94208239",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
-                                                    className: "fab fa-youtube"
+                                                    className: "fab fa-linkedin"
                                                 })
                                             })
                                         })
@@ -317,28 +328,28 @@ const Navbar = ({ navbarRef , logoRef , logoClass  })=>{
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                                    href: "/#",
+                                                    href: "/residential-visualization",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                         className: "dropdown-item",
                                                         children: "Residential Visualization"
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                                    href: "/#",
+                                                    href: "/event-exhibit-visualization",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                         className: "dropdown-item",
                                                         children: "Event Exhibit Visualization"
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                                    href: "/#",
+                                                    href: "/virtual-reality-visualization",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                         className: "dropdown-item",
                                                         children: "Virtual Reality Visualization"
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                                    href: "/#",
+                                                    href: "/interior-design-visualization",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                         className: "dropdown-item",
                                                         children: "Interior Design Visualization"
@@ -384,7 +395,7 @@ const Navbar = ({ navbarRef , logoRef , logoClass  })=>{
 /***/ 2806:
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"E8":"/assets/img/logo-light.svg","Q1":"/assets/img/logo-dark.png","xU":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d462561.6574537445!2d55.22748795!3d25.076022449999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2sDubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2s!4v1717484912294!5m2!1sen!2s","QP":true}');
+module.exports = JSON.parse('{"E8":"/assets/img/logo-light.svg","Q1":"/assets/img/logo-dark.png","xU":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27213.582875415792!2d74.3226584870913!3d31.504987740025992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3919045a28ff1d39%3A0xf71e739b84b3c3c!2sGulberg%20III%2C%20Lahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1719397313269!5m2!1sen!2s","QP":true}');
 
 /***/ })
 

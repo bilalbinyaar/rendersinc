@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/team/customer.jpg",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    "username": "Lorem",
-    "usertitle": "Customer"
+    "image": "/assets/img/team/testimonials.jpg",
+    "content": "Commercial visualization services were outstanding! Our clients were impressed, and it made decision-making easier.",
+    "username": "Sarah Thompson",
+    "usertitle": "Client"
   },
   {
     "id": 2,
-    "image": "/assets/img/team/test.jpg",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    "username": "Lorem",
-    "usertitle": "Customer"
+    "image": "/assets/img/team/testimonials.jpg",
+    "content": "Thanks to their residential visualization, we could see our dream home before it was built. Amazing!",
+    "username": "Michael Johnson",
+    "usertitle": "Client"
   },
   {
     "id": 3,
-    "image": "/assets/img/team/customer.jpg",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    "username": "Lorem",
-    "usertitle": "Customer"
+    "image": "/assets/img/team/testimonials.jpg",
+    "content": "The event exhibit visualization made our event planning seamless. The interactive designs were a huge hit!",
+    "username": "Emily Roberts",
+    "usertitle": "Client"
   },
   {
     "id": 4,
-    "image": "/assets/img/team/test.jpg",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    "username": "Lorem",
-    "usertitle": "Customer"
+    "image": "/assets/img/team/testimonials.jpg",
+    "content": "VR visualization was an unparalleled experience. It felt like walking through the property in real life.",
+    "username": "David Martinez",
+    "usertitle": "Client"
   }
 ]

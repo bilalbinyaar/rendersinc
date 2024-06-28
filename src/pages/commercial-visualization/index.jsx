@@ -38,10 +38,12 @@ const CommercialVisualization = () => {
             <div className="col-lg-8 offset-lg-1 col-md-8 mb-30">
               <div className="text">
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam Sed ut
-                  perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam.
+                  Commercial Visualization transforms your business ideas into
+                  vivid, detailed visuals that help you see and perfect your
+                  commercial projects before they come to life. Our cutting-edge
+                  technology and expertise ensure that your vision is accurately
+                  represented, making it easier to plan, present, and execute
+                  your commercial endeavors.
                 </p>
               </div>
             </div>

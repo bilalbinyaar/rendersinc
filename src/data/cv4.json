@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01",
+    "image": "/assets/img/01.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Detailed Material Previews",
+    "content": "Visualize different materials and finishes in high detail to make informed design choices."
+  },
+  {
+    "id": "02",
+    "image": "/assets/img/02.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Real-Time Design Adjustments",
+    "content": "Instantly see the effects of design changes, from furniture placement to color schemes, in real time."
+  },
+  {
+    "id": "03",
+    "image": "/assets/img/03.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Mood Board Integration",
+    "content": "Create and integrate mood boards to see how different design elements come together in a cohesive style."
+  }
+]

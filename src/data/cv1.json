@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01",
+    "image": "/assets/img/01.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Photorealistic Lighting",
+    "content": "Experience your home with realistic lighting effects that showcase how natural and artificial light interact."
+  },
+  {
+    "id": "02",
+    "image": "/assets/img/02.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Virtual Staging",
+    "content": "See your home furnished with different styles to find the perfect interior design."
+  },
+  {
+    "id": "03",
+    "image": "/assets/img/03.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Floor Plan Visuals",
+    "content": "Detailed floor plan visuals to help you understand the layout and flow of your home."
+  }
+]

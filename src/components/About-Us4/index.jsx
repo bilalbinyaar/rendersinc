@@ -48,17 +48,18 @@ const AboutUs4 = () => {
           <div className="col-lg-6">
             <div className="txt-cont">
               <p className="mb-20">
-                Maecenas imperdiet ante eget hendrerit posuere. Nunc urna
-                libero, congue porta nibh a, semper feugiat sem. Sed auctor dui
-                eleifend, scelerisque eros ut.
+                At Renders Inc, we don&apos;t just create visuals; we curate
+                cinematic experiences that captivate, inspire, and redefine the
+                boundaries of imagination. Join us on a journey where every
+                frame is a masterpiece, and every idea is a blockbuster in the
+                making. Welcome to the epicenter of visual enchantment.
               </p>
               <p>
-                Curabitur sed iaculis dolor, non congue ligula. Maecenas
-                imperdiet ante eget hendrerit posuere. Nunc urna libero, congue
-                porta nibh a, semper feugiat sem. Sed auctor dui eleifend,
-                scelerisque eros ut, pellentesque nibh. Nam lacinia suscipit
-                accumsan. Donec sodales, neque vitae rutrum convallis, nulla
-                tortor pharetra odio, in varius ante ante sed nisi.
+                Our projects range from small-scale residencies to large-scale
+                commercial developments & urban planning initiatives. This wide
+                spectrum makes our services ideal for architects, interior
+                designers, real estate developers, & marketing agencies who want
+                to showcase designs to clients, investors, & the public.
               </p>
             </div>
           </div>

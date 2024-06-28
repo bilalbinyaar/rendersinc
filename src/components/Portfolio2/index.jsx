@@ -13,54 +13,54 @@ const Portfolio2 = () => {
           <div className="col-lg-3 col-md-6 cluom current" data-tab="tab-1">
             <div className="info">
               <h6 className="custom-font">Interior</h6>
-              <h5>Exterior Designs</h5>
+              <h5>Coffee Bar</h5>
             </div>
-            <div className="more">
+            {/* <div className="more">
               <Link href="#">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
               </Link>
-            </div>
+            </div> */}
           </div>
           <div className="col-lg-3 col-md-6 cluom" data-tab="tab-2">
             <div className="info">
-              <h6 className="custom-font">Interior</h6>
-              <h5>Lorem Hotel</h5>
+              <h6 className="custom-font">Exterior</h6>
+              <h5>Sales Office</h5>
             </div>
-            <div className="more">
+            {/* <div className="more">
               <Link href="#">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
               </Link>
-            </div>
+            </div> */}
           </div>
           <div className="col-lg-3 col-md-6 cluom" data-tab="tab-3">
             <div className="info">
               <h6 className="custom-font">Interior</h6>
               <h5>Apartment Renovation</h5>
             </div>
-            <div className="more">
+            {/* <div className="more">
               <Link href="#">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
               </Link>
-            </div>
+            </div> */}
           </div>
           <div className="col-lg-3 col-md-6 cluom" data-tab="tab-4">
             <div className="info">
-              <h6 className="custom-font">Interior</h6>
-              <h5>Lorem House</h5>
+              <h6 className="custom-font">Exterior</h6>
+              <h5>Falcon Festival</h5>
             </div>
-            <div className="more">
+            {/* <div className="more">
               <Link href="#">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

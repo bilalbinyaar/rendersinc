@@ -4880,6 +4880,9 @@ body {
   display: -ms-flexbox;
   display: flex;
 }
+.contact .info .extra-pad {
+  padding: 53.5px 20px;
+}
 .contact .info .item .icon {
   font-size: 30px;
   color: #ccc;

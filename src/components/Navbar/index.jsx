@@ -113,18 +113,18 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   <Link href="/commercial-visualization">
                     <a className="dropdown-item">Commercial Visualization</a>
                   </Link>
-                  <Link href="/#">
+                  <Link href="/residential-visualization">
                     <a className="dropdown-item">Residential Visualization</a>
                   </Link>
-                  <Link href="/#">
+                  <Link href="/event-exhibit-visualization">
                     <a className="dropdown-item">Event Exhibit Visualization</a>
                   </Link>
-                  <Link href="/#">
+                  <Link href="/virtual-reality-visualization">
                     <a className="dropdown-item">
                       Virtual Reality Visualization
                     </a>
                   </Link>
-                  <Link href="/#">
+                  <Link href="/interior-design-visualization">
                     <a className="dropdown-item">
                       Interior Design Visualization
                     </a>

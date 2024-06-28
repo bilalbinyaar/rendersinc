@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01",
+    "image": "/assets/img/01.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Dynamic Layout Planning",
+    "content": "Visualize and adjust the layout of your event space to optimize flow and functionality."
+  },
+  {
+    "id": "02",
+    "image": "/assets/img/02.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Real-Time Collaboration",
+    "content": "Collaborate with your team in real-time to make instant updates and improvements to the exhibit design."
+  },
+  {
+    "id": "03",
+    "image": "/assets/img/03.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Immersive Audience Views",
+    "content": "Experience the event from different audience perspectives to ensure optimal visibility and engagement."
+  }
+]

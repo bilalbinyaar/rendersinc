@@ -39,10 +39,10 @@ const AboutUs6 = ()=>{
                                     children: "Our Comapny"
                                 }),
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                    children: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+                                    children: "At Renders Inc, we don't just create visuals; we curate cinematic experiences that captivate, inspire, and redefine the boundaries of imagination. Join us on a journey where every frame is a masterpiece, and every idea is a blockbuster in the making. Welcome to the epicenter of visual enchantment – welcome to Renders Inc."
                                 }),
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-                                    href: "#",
+                                    href: "/about",
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                         className: "btn-curve btn-bord btn-lit mt-30",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
@@ -549,7 +549,7 @@ const Home5 = ()=>{
     return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_layouts_main__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z, {
         children: [
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_head__WEBPACK_IMPORTED_MODULE_14___default()), {
-                /*#__PURE__*/ children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
+                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
                     rel: "stylesheet",
                     href: "/assets/css/style.css",
                     className: "jsx-c7e1cceefc38c3ba"

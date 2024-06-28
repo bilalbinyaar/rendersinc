@@ -174,133 +174,69 @@ const Portfolio2 = ()=>{
                 children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                     className: "row",
                     children: [
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: "col-lg-3 col-md-6 cluom current",
                             "data-tab": "tab-1",
-                            children: [
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    className: "info",
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h6", {
-                                            className: "custom-font",
-                                            children: "Interior"
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                                            children: "Exterior Designs"
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                    className: "more",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "#",
-                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                                            children: [
-                                                "View Project ",
-                                                /*#__PURE__*/ jsx_runtime_.jsx("i", {
-                                                    className: "fas fa-chevron-right"
-                                                })
-                                            ]
-                                        })
+                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: "info",
+                                children: [
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h6", {
+                                        className: "custom-font",
+                                        children: "Interior"
+                                    }),
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h5", {
+                                        children: "Coffee Bar"
                                     })
-                                })
-                            ]
+                                ]
+                            })
                         }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: "col-lg-3 col-md-6 cluom",
                             "data-tab": "tab-2",
-                            children: [
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    className: "info",
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h6", {
-                                            className: "custom-font",
-                                            children: "Interior"
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                                            children: "Lorem Hotel"
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                    className: "more",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "#",
-                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                                            children: [
-                                                "View Project ",
-                                                /*#__PURE__*/ jsx_runtime_.jsx("i", {
-                                                    className: "fas fa-chevron-right"
-                                                })
-                                            ]
-                                        })
+                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: "info",
+                                children: [
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h6", {
+                                        className: "custom-font",
+                                        children: "Exterior"
+                                    }),
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h5", {
+                                        children: "Sales Office"
                                     })
-                                })
-                            ]
+                                ]
+                            })
                         }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: "col-lg-3 col-md-6 cluom",
                             "data-tab": "tab-3",
-                            children: [
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    className: "info",
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h6", {
-                                            className: "custom-font",
-                                            children: "Interior"
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                                            children: "Apartment Renovation"
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                    className: "more",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "#",
-                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                                            children: [
-                                                "View Project ",
-                                                /*#__PURE__*/ jsx_runtime_.jsx("i", {
-                                                    className: "fas fa-chevron-right"
-                                                })
-                                            ]
-                                        })
+                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: "info",
+                                children: [
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h6", {
+                                        className: "custom-font",
+                                        children: "Interior"
+                                    }),
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h5", {
+                                        children: "Apartment Renovation"
                                     })
-                                })
-                            ]
+                                ]
+                            })
                         }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: "col-lg-3 col-md-6 cluom",
                             "data-tab": "tab-4",
-                            children: [
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    className: "info",
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h6", {
-                                            className: "custom-font",
-                                            children: "Interior"
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                                            children: "Lorem House"
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                    className: "more",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "#",
-                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                                            children: [
-                                                "View Project ",
-                                                /*#__PURE__*/ jsx_runtime_.jsx("i", {
-                                                    className: "fas fa-chevron-right"
-                                                })
-                                            ]
-                                        })
+                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: "info",
+                                children: [
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h6", {
+                                        className: "custom-font",
+                                        children: "Exterior"
+                                    }),
+                                    /*#__PURE__*/ jsx_runtime_.jsx("h5", {
+                                        children: "Falcon Festival"
                                     })
-                                })
-                            ]
+                                ]
+                            })
                         })
                     ]
                 })
